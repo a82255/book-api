@@ -1,5 +1,5 @@
 # Express API Documentation
-Note: enerated with ChatGPT.
+Note: generated with ChatGPT.
 
 ## Overview
 This API provides endpoints for managing books and tags. The data is stored in JSON files and handled using Express.
