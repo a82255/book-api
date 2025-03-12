@@ -5,7 +5,7 @@ Note: generated with ChatGPT.
 This API provides endpoints for managing books and tags. The data is stored in JSON files and handled using Express.
 
 ## Installation
-1. Ensure you have [Node.js](https://nodejs.org/) installed.
+1. Ensure you have [Node.js](https://nodejs.org/) installed. (Note: This project was created using Node v12.22.12.) 
 2. Clone the repository or download the project files.
 3. Navigate to the project directory and run:
    ```sh
@@ -112,6 +112,4 @@ The server allows cross-origin requests from `http://localhost:4200` by using th
 - ID generation logic ensures uniqueness but may need improvements for large datasets.
 
 ## License
-This project is open-source and free to use.
-
-
+None.
